@@ -1,0 +1,13 @@
+*
+!.gitignore
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.svg
+!*.bmp
+!*.webp
+!*.ico
+!*.tif
+!*.tiff
+!*.eps
